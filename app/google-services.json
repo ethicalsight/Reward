@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "435624660558",
+    "project_id": "reward-dev-5256f",
+    "storage_bucket": "reward-dev-5256f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435624660558:android:38c164063d477d6915fd1f",
+        "android_client_info": {
+          "package_name": "com.ethicalsight.reward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435624660558-6ma06n52k13j4ucn5ivvtjv8kbndkdr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNYTkPC9FgZD5fDER3RyWrgdPG60dhIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435624660558-6ma06n52k13j4ucn5ivvtjv8kbndkdr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

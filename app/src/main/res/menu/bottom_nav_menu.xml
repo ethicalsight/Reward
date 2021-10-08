@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="@string/account_title" />
+
+    <item
+        android:id="@+id/navigation_receipt"
+        android:icon="@drawable/ic_baseline_receipt_24"
+        android:title="@string/receipt_title" />
+
+    <item
+        android:id="@+id/navigation_card"
+        android:icon="@drawable/ic_baseline_card_giftcard_24"
+        android:title="@string/card_title" />
+
+    <item
+        android:id="@+id/navigation_discount"
+        android:icon="@drawable/ic_baseline_local_offer_24"
+        android:title="@string/discount_title" />
+
+    <item
+        android:id="@+id/navigation_purchase"
+        android:icon="@drawable/ic_baseline_receipt_long_24"
+        android:title="@string/purchase_title" />
+
+</menu>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_card">
+
+    <fragment
+        android:id="@+id/navigation_card"
+        android:name="com.ethicalsight.reward.fragment.CardFragment"
+        android:label="@string/card_title"
+        tools:layout="@layout/fragment_card">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_account"
+        android:name="com.ethicalsight.reward.fragment.AccountFragment"
+        android:label="@string/account_title"
+        tools:layout="@layout/fragment_account">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_receipt"
+        android:name="com.ethicalsight.reward.fragment.ReceiptFragment"
+        android:label="@string/receipt_title"
+        tools:layout="@layout/fragment_receipt">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_discount"
+        android:name="com.ethicalsight.reward.fragment.DiscountFragment"
+        android:label="@string/discount_title"
+        tools:layout="@layout/fragment_discount">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_purchase"
+        android:name="com.ethicalsight.reward.fragment.PurchaseFragment"
+        android:label="@string/purchase_title"
+        tools:layout="@layout/fragment_purchase">
+    </fragment>
+</navigation>

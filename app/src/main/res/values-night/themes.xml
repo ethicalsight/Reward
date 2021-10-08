@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight">
+        <item name="colorPrimary">@color/main_primary</item>
+        <item name="colorPrimaryDark">@color/main_primary</item>
+        <item name="colorAccent">@color/sub_primary</item>
+        <item name="android:textColorPrimary">@color/main_secondary</item>
+    </style>
+</resources>

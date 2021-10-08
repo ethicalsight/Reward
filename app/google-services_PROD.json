@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "471857612285",
+    "firebase_url": "https://reward-bd8fb-default-rtdb.firebaseio.com",
+    "project_id": "reward-bd8fb",
+    "storage_bucket": "reward-bd8fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471857612285:android:ac6a7e6ec1b7ed2ba94594",
+        "android_client_info": {
+          "package_name": "com.ethicalsight.reward"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471857612285-6kutilooid8n9aqbkhcvqk9c5j3bjjug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg0oRomxDhLJUCGkbtNyBHVC4m4if5FPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471857612285-6kutilooid8n9aqbkhcvqk9c5j3bjjug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

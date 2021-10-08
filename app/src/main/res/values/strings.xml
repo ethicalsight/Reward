@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Reward</string>
+
+    <!-- Main Activity -->
+    <string name="card_title">Cards</string>
+    <string name="MESSAGE_AVAILABLE_SOON">Available soon.</string>
+    <string name="receipt_title">Receipts</string>
+    <string name="discount_title">Discounts</string>
+    <string name="purchase_title">Purchases</string>
+    <string name="account_title">Account</string>
+    <!--<string name="BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/6300978111</string>-->
+    <string name="BANNER_AD_UNIT_ID" translatable="false">ca-app-pub-8142024918835598/2591523333</string>
+    <string name="NATIVE_AD_UNIT_ID" translatable="false">ca-app-pub-3940256099942544/2247696110</string>
+
+    <!-- Card Fragment -->
+    <string name="empty_card">No cards</string>
+
+
+    <!-- Brand Activity -->
+    <string name="new_card">New card</string>
+    <string name="add_brand">Request new brand</string>
+    <string name="ERROR_MAX_CARD">Maximum allowed cards exceeded!</string>
+    <string name="card_delete">Are you sure you want to delete this card?</string>
+
+    <!-- Account Fragment-->
+    <string name="account_id">Account ID</string>
+    <string name="version">Version</string>
+    <string name="rate_url" translatable="false">market://details?id=com.ethicalsight.reward</string>
+    <string name="share_text" translatable="false">Hi, try this app : market://details?id=com.ethicalsight.reward</string>
+    <string name="contact_email" translatable="false">ethicalsight@gmail.com</string>
+    <string name="contact_subject" translatable="false">New message from %s</string>
+
+    <!-- Barcode Activity -->
+    <string name="back">Back</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="MESSAGE_NUMBER_INPUT"><font size="14">Enter or scan your card number.</font></string>
+    <string name="MESSAGE_BRAND_INPUT"><font size="14">Enter the brand name.</font></string>
+    <string name="ERROR_NUMBER_EXIST">You already have a card with this number!</string>
+    <string name="MESSAGE_CARD_SCAN">Card scaned.</string>
+    <string name="MESSAGE_CARD_CANCEL">Canceled.</string>
+    <string name="MESSAGE_CARD_SAVE">Card saved.</string>
+    <string name="MESSAGE_CARD_EDIT">Card saved.</string>
+    <string name="MESSAGE_CARD_DELETE">Card deleted.</string>
+
+</resources>
